@@ -43,17 +43,17 @@ Syuaa SE
 License
 -------
 
-PHP Markdown
-Copyright (c) 2004-2013 Michel Fortin
-http://michelf.ca/projects/php-markdown/
+PHP Markdown  
+Copyright (c) 2004-2013 Michel Fortin  
+[http://unlicense.org/](http://michelf.ca/projects/php-markdown/)
 
-Original Markdown
-Copyright (c) 2004-2006 John Gruber
-http://daringfireball.net/projects/markdown/
+Original Markdown  
+Copyright (c) 2004-2006 John Gruber  
+[http://unlicense.org/](http://daringfireball.net/projects/markdown/)
 
-Markdown Viewer
-Unlicensed software
-http://unlicense.org/</textarea></div>
+Markdown Viewer  
+Unlicensed software  
+[http://unlicense.org/](http://unlicense.org/)</textarea></div>
 <div><iframe id="viewer"></iframe></div>
 
 </body></html>
